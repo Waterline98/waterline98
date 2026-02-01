@@ -1,36 +1,27 @@
 ## Hi there 👋
 
-<!--
-**Waterline98/waterline98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я Data Engineer: создаю надёжные и поддерживаемые системы обработки данных
 
-Here are some ideas to get you started:
+Для меня качественная работа в Data Engineering — это:
+- Надёжность: конвейеры данных, которым можно доверять.
+- Масштабируемость: системы, растущие вместе с бизнесом.
+- Понятность: код и архитектура, которые легко изучать и развивать.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## Мои проекты
+Используемые технологии: Python, SQL, Apache Spark, Airflow, Docker, Kubernetes, AWS/GCP.
 
-
-| Название | Описание | Технологии | Ссылка |
-|--------|--------|----------|--------|
-| Проект 1 | Описание | HTML, CSS, JS | [Ссылка](https://...) |
-| Проект 2 | Описание | Python, Django | [Ссылка](https://....) |
-# Ваш Никнейм
-
-👋 Привет! Я [ваш никнейм] — [кратко о себе, например: «разработчик, увлекаюсь Python и веб‑дизайном»].
+Открыт к сотрудничеству и изучению новых инструментов.
 
 ## Мои проекты
 - [Проект 1](ссылка) — краткое описание.
 - [Проект 2](ссылка) — краткое описание.
 
 ## Контакты
-- Email: ваш_email@example.com
-- LinkedIn: [ссылка](https://linkedin.com/in/ваш-профиль)
+- Email: octagon4469@gmail.com
+- Telegram: [@gilyazov_de](https://t.me/gilyazov_de)
 
-![Иллюстрация](ссылка_на_изображение)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" width="40" alt="Spark">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/airflow/airflow-original.svg" width="40" alt="Airflow">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL">
+</div>
+
