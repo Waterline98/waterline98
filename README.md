@@ -1,4 +1,4 @@
-## Hi there 👋
+## Всем привет! 👋
 
 Я Data Engineer: создаю надёжные и поддерживаемые системы обработки данных
 
@@ -20,8 +20,38 @@
 - Telegram: [@gilyazov_de](https://t.me/gilyazov_de)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" width="40" alt="Spark">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/airflow/airflow-original.svg" width="40" alt="Airflow">
+  <!-- Python -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python">
+  
+  <!-- SQL -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" width="40" alt="SQL">
+  
+  <!-- PostgreSQL -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL">
+  
+  <!-- ClickHouse -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clickhouse/clickhouse-original.svg" width="40" alt="ClickHouse">
+  
+  <!-- Spark -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" width="40" alt="Spark">
+  
+  <!-- Apache NiFi -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachenifi/apachenifi-original.svg" width="40" alt="Apache NiFi">
+  
+  <!-- Airflow -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/airflow/airflow-original.svg" width="40" alt="Airflow">
+  
+  <!-- AWS -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" width="40" alt="AWS">
+  
+  <!-- DWH (Data Warehouse) - используем generic database icon -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/database/database-plain.svg" width="40" alt="DWH">
+  
+  <!-- Git -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" alt="Git">
+  
+  <!-- Linux -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux">
 </div>
+
 
