@@ -12,8 +12,10 @@
 Открыт к сотрудничеству и изучению новых инструментов.
 
 ## Мои проекты
-- [Marketplace Items & Sellers Analytics]([ссылка](https://github.com/Waterline98/Marketplace-Items-Sellers-Analytics)) — ETL-пайплайн аналитики маркетплейса: обработка сырых данных в Apache Spark (K8s), загрузка в Greenplum, отчётные представления по продавцам и брендам. Airflow, PySpark, S3, PXF.
-- [Проект 2](ссылка) — краткое описание.
+
+- [Marketplace Items & Sellers Analytics](https://github.com/Waterline98/Marketplace-Items-Sellers-Analytics) — ETL‑пайплайн аналитики маркетплейса: обработка сырых данных в Apache Spark (K8s), загрузка в Greenplum, отчётные представления по продавцам и брендам. Airflow, PySpark, S3, PXF.
+- [Проект 2](https:/проект-2) — краткое описание.
+
 
 ## Контакты
 - Email: octagon4469@gmail.com
