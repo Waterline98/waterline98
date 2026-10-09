@@ -19,7 +19,6 @@
 - [Corporate Banking Data Architecture: Comparing Kimball, Data Vault & Anchor Models](https://github.com/Waterline98/Corporate-Banking-Data-Architecture-Comparing-Kimball-Data-Vault-Anchor-Models) — Модель архитектуры корпоративных банковских данных: сравнение моделей Kimball, Data Vault и Anchor models. Проект реализует автоматизацию финансовых операций корпоративных клиентов и демонстрирует эволюцию хранилищ данных: от модели Кимбалла к Data Vault 2.0 и Anchor modeling в рамках единой системы.
 
 ## Контакты
-- Email: octagon4469@gmail.com
 - Telegram: [@gilyazov_de](https://t.me/gilyazov_de)
 
 <div align="center">
